@@ -1,9 +1,21 @@
 
 body{
     font-family: sans-serif;
+    margin: 20px;
+    padding: 20px;
 }
 
 h1{
     color:cadetblue;
     
+}
+
+h3{
+    color:blueviolet;
+    font-weight: 600;
+}
+
+h4{
+    color:blue;
+    font-weight: bold;
 }
